@@ -1,0 +1,1 @@
+This is a mockup of the google homepage. It is not functional and only serves to demonstrate understanding of CSS and HTML.
