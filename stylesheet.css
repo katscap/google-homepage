@@ -1,0 +1,52 @@
+body {
+  background: #fff
+}
+
+/* top bar */
+
+#top-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#top-right {
+  display: flex;
+  flex-direction: row;
+}
+
+#top-left {
+  display: flex;
+  flex-direction: row;
+}
+
+/* logo */
+
+#logo {
+  display: flex;
+  justify-content: center;
+}
+/* search area */
+#search-bar {
+  display: flex;
+  border-radius: 25px;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+  justify-content: space-evenly;
+
+
+}
+
+#text-bar {
+  display: flex;
+  border: hidden;
+  justify-content: center;
+}
+
+#mag {
+  padding: 10px;
+  margin: 10px;
+}
+
+/* bottom bar */
